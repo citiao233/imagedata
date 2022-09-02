@@ -1,0 +1,14 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "models.moc3",
+    "Textures": [
+      "textures/texture_00.png"
+    ],
+    "Physics": "models.physics3.json",
+    "Motions": {
+      "": []
+    }
+  },
+  "Groups": []
+}
